@@ -17,6 +17,8 @@ Si vous voulez explorer **l’utilisation** des caméras, vous pouvez jeter un �
 * [https://github.com/EloiStree/2026_02_09_WorkshopWhatNewInXR](https://github.com/EloiStree/2026_02_09_WorkshopWhatNewInXR)
 
 
+----------
+
   
 [<img width="1333" height="635" alt="image" src="https://github.com/user-attachments/assets/bb7d4e30-3b47-49bb-be88-2a21d9584287" />](https://www.youtube.com/watch?v=LKohEluBk4k&t=26s)    
 MRTK https://www.youtube.com/watch?v=LKohEluBk4k&t=26s  
