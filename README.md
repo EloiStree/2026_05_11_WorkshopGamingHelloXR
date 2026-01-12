@@ -9,6 +9,7 @@
 * **Triangulons** une scène
   * Avec deux points et une feuille A4
   * Avec trois points à l’aide des **points clés** de la pièce
+  * Code: https://github.com/EloiStree?tab=repositories&q=ThreePoints
 
 Dans **ces deux jours** de cours, nous allons apprendre à configurer un **projet Meta**
 et le calibrer dans la classe avec une **bonne grosse rotation**.
