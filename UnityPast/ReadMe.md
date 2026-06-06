@@ -620,3 +620,13 @@ https://www.youtube.com/watch?v=CWXVgrm56Gs
 Voir a travers ses mains avec des Webcams durant la Citizen
 ![alt text](image-129.png)
 https://youtu.be/bmcbHZuoK4g?t=512
+
+
+
+Demo sur Meta Developer Hub App
+
+![alt text](image-130.png)
+https://www.youtube.com/@LearnByPlayingInXR/videos
+
+![alt text](image-131.png)
+https://www.youtube.com/@LearnByPlayingInXR/shorts
