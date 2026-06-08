@@ -1,6 +1,10 @@
-# Workshop Gaming Hello XR
+# Hello XR
+
 
 > Parlons XR : Android, ADB, Developer Hub, Meta…
+
+- Day 1: Setup Unity pour la XR [->](https://github.com/EloiStree/2026_05_11_workshop_gaming_hello_xr/blob/main/Steps/InstallUnityForXR/ReadMe.md)   
+- Day 2: Un objet VR dans la vrai vie [->](https://github.com/EloiStree/2026_05_11_workshop_gaming_hello_xr/blob/main/Steps/RelocateSceneWithTwoPoint/ReadMe.md)   
 
 * Parlons Meta Blocks
   * Configurer un projet Meta et ses **paramètres**
