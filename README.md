@@ -38,3 +38,8 @@ GRTK: https://github.com/GodotVR/godot-xr-tools/releases/tag/4.5.1
 [<img width="1232" height="317" alt="image" src="https://github.com/user-attachments/assets/15c6b029-7455-4a2e-a775-ccb8e44dd863" />](https://github.com/EloiStree/CV/blob/main/2026_03_25_eloi_stree_cv.pdf)     
 Software: https://github.com/EloiStree/HelloGodotXR/issues?q=Software%3A        
 
+
+----
+
+[Camera ?](https://github.com/EloiStree/HelloUseCpuAndGpuOnQuest3/tree/main/MonsJuly2025)   
+https://github.com/EloiStree/HelloUseCpuAndGpuOnQuest3/tree/main/MonsJuly2025   
