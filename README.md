@@ -13,9 +13,10 @@ Cela fait maintenant deux ans que je n’ai plus utilisé la bibliothèque Meta 
 Je peux bien sûr vous accompagner sur les concepts VR et la configuration d’Unity,     
 mais je vous encourage également à consulter la documentation officielle afin d’apprendre à utiliser les différents blocs et outils proposés par Meta.      
 
-Une méthode simple consiste à rechercher sur YouTube les tutoriels les plus récents.        
-Par exemple : [https://www.youtube.com/results?search_query=meta+block+2026+juin+unity+6.3](https://www.youtube.com/results?search_query=meta+block+2026+juin+unity+6.3)   
-Il y a presque toujours un créateur de contenu qui a pris le temps d’expliquer les nouveautés et leur fonctionnement.    
+Ma méthode pour chaque nouveau client VR consiste à repartir d’un projet XR vierge, puis à rechercher des tutoriels récents en tenant compte de la date, de la version d’Unity et du mois concerné.   
+Par exemple : [https://www.youtube.com/results?search_query=meta+block+2026+juin+unity+6.3](https://www.youtube.com/results?search_query=meta+block+2026+juin+unity+6.3)    
+Il y a toujours un créateur de contenu qui a pris le temps de présenter les nouveautés et d’expliquer leur fonctionnement.    
+
 
 [<img width="720" alt="image" src="https://github.com/user-attachments/assets/a3b0eca6-80cc-47eb-8043-59e70a9971b7" />](https://www.linkedin.com/in/eloistree/recent-activity/all/)   
 https://www.linkedin.com/in/eloistree/recent-activity/all/       
