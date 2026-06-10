@@ -60,3 +60,16 @@ Software: https://github.com/EloiStree/HelloGodotXR/issues?q=Software%3A
 
 [Camera ?](https://github.com/EloiStree/HelloUseCpuAndGpuOnQuest3/tree/main/MonsJuly2025)   
 https://github.com/EloiStree/HelloUseCpuAndGpuOnQuest3/tree/main/MonsJuly2025   
+
+
+
+
+---------
+
+# Input et Toys
+
+[<img width="804" height="217" alt="image" src="https://github.com/user-attachments/assets/24b40c66-cea6-4f38-880b-e4f2bcbccaca" />](https://github.com/EloiStree/2026_04_02_unity_input_and_toys)   
+  
+- https://github.com/EloiStree/2026_04_02_unity_input_and_toys
+  - https://github.com/EloiStree/2025_06_02_upm_tick_collection
+  - https://github.com/EloiStree/2023_11_01_upm_kid_toy_skid_steering_code/tree/main
