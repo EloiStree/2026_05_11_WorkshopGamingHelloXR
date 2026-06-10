@@ -73,3 +73,9 @@ https://github.com/EloiStree/HelloUseCpuAndGpuOnQuest3/tree/main/MonsJuly2025
 - https://github.com/EloiStree/2026_04_02_unity_input_and_toys
   - https://github.com/EloiStree/2025_06_02_upm_tick_collection
   - https://github.com/EloiStree/2023_11_01_upm_kid_toy_skid_steering_code/tree/main
+
+[<img width="394" height="259" alt="image" src="https://github.com/user-attachments/assets/05abaf20-604e-424e-851d-5e32cf36128f" />](https://www.youtube.com/watch?v=tweBgb79VyE)   
+https://www.youtube.com/watch?v=tweBgb79VyE   
+
+
+
