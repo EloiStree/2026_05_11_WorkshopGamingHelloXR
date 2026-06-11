@@ -78,6 +78,12 @@ https://github.com/EloiStree/HelloUseCpuAndGpuOnQuest3/tree/main/MonsJuly2025
 https://www.youtube.com/watch?v=tweBgb79VyE   
 
 
+**Mini voiture**   
+Si vous voulez un petit vehicule pour le fun.  
+[<img width="659" height="404" alt="image" src="https://github.com/user-attachments/assets/196073ae-72d7-4b46-971c-f298e4540dbf" />](https://github.com/EloiStree/2023_11_01_upm_kid_toy_skid_steering_code)    
+https://github.com/EloiStree/2023_11_01_upm_kid_toy_skid_steering_code     
+Voir pour la physique [KS4036](https://github.com/EloiStree/2026_03_23_doc_micro_bit_sensor/issues/220)    
+
 
 ----------------
 
